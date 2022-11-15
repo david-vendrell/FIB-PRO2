@@ -1,2 +1,2 @@
-# FIB-PRO2
-PRO2 contents 
+# FIB-PRO2 (The content will be updated soon)
+Soon...
